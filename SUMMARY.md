@@ -1,6 +1,6 @@
 # Table of contents
 
-* [HTML Elements](README.md)
+* [HTML Introduction](README.md)
 * [HTML Headings](html-headings.md)
 * [HTML Paragraphs](html-paragraphs.md)
 * [HTML Links](html-links.md)
