@@ -3,7 +3,7 @@
 * [HTML Introduction](README.md)
 * [HTML Headings](html-headings.md)
 * [HTML Paragraphs](html-paragraphs.md)
-* [HTML Links](html-links.md)
+* [HTML \<a> Tag](html-less-than-a-greater-than-tag.md)
 * [HTML Text Formatting](html-text-formatting.md)
 * [HTML Styles](html-styles.md)
 * [HTML Images](html-images.md)
