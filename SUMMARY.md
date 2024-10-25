@@ -5,7 +5,7 @@
 * [HTML Paragraphs](html-paragraphs.md)
 * [HTML \<a> Tag](html-less-than-a-greater-than-tag.md)
 * [HTML Text Formatting](html-text-formatting.md)
-* [HTML Styles](html-styles.md)
+* [HTML Phrase tag](html-phrase-tag.md)
 * [HTML Images](html-images.md)
 * [HTML Tables](html-tables.md)
 * [HTML Lists](html-lists.md)
