@@ -11,7 +11,7 @@ The `<em>` tag emphasizes text by making it italic. It adds semantic importance 
 **Example:**
 
 ```html
-htmlCopy code<p>He felt <em>extremely</em> happy about the news.</p>
+<p>He felt <em>extremely</em> happy about the news.</p>
 ```
 
 #### 2. **`<strong>` Tag** – Strong Emphasis
@@ -21,7 +21,7 @@ The `<strong>` tag makes text bold and conveys that the content is of high impor
 **Example:**
 
 ```html
-htmlCopy code<p><strong>Warning:</strong> Handle this material with care.</p>
+<p><strong>Warning:</strong> Handle this material with care.</p>
 ```
 
 #### 3. **`<small>` Tag** – Fine Print
@@ -31,7 +31,7 @@ The `<small>` tag reduces the size of the text, often used for disclaimers or fo
 **Example:**
 
 ```html
-htmlCopy code<p>All rights reserved. <small>Terms and conditions apply.</small></p>
+<p>All rights reserved. <small>Terms and conditions apply.</small></p>
 ```
 
 #### 4. **`<mark>` Tag** – Highlighted Text
@@ -41,7 +41,7 @@ The `<mark>` tag highlights text as if with a marker, useful for drawing attenti
 **Example:**
 
 ```html
-htmlCopy code<p>Please review the <mark>updated policy</mark> for details.</p>
+<p>Please review the <mark>updated policy</mark> for details.</p>
 ```
 
 #### 5. **`<abbr>` Tag** – Abbreviations
@@ -51,7 +51,7 @@ The `<abbr>` tag represents an abbreviation or acronym. When using this tag, you
 **Example:**
 
 ```html
-htmlCopy code<p>The <abbr title="Hypertext Markup Language">HTML</abbr> standard is constantly evolving.</p>
+<p>The <abbr title="Hypertext Markup Language">HTML</abbr> standard is constantly evolving.</p>
 ```
 
 #### 6. **`<cite>` Tag** – Citations
@@ -61,7 +61,7 @@ The `<cite>` tag is used to reference the title of a work (like books, movies, o
 **Example:**
 
 ```html
-htmlCopy code<p>The novel <cite>To Kill a Mockingbird</cite> explores profound themes.</p>
+<p>The novel <cite>To Kill a Mockingbird</cite> explores profound themes.</p>
 ```
 
 #### 7. **`<dfn>` Tag** – Definitions
@@ -71,7 +71,7 @@ The `<dfn>` tag marks the first instance of a term being defined in a document. 
 **Example:**
 
 ```html
-htmlCopy code<p>A <dfn>neuron</dfn> is a nerve cell that transmits information in the nervous system.</p>
+<p>A <dfn>neuron</dfn> is a nerve cell that transmits information in the nervous system.</p>
 ```
 
 #### 8. **`<q>` Tag** – Inline Quotes
@@ -81,7 +81,7 @@ The `<q>` tag is used for inline quotations, automatically adding quotation mark
 **Example:**
 
 ```html
-htmlCopy code<p>She said, <q>This is a great opportunity.</q></p>
+<p>She said, <q>This is a great opportunity.</q></p>
 ```
 
 #### 9. **`<code>` Tag** – Code Snippets
@@ -91,7 +91,7 @@ The `<code>` tag is used to display code in a monospace font. This tag helps ide
 **Example:**
 
 ```html
-htmlCopy code<p>To print in Python, use <code>print("Hello, World!")</code>.</p>
+<p>To print in Python, use <code>print("Hello, World!")</code>.</p>
 ```
 
 #### 10. **`<samp>` Tag** – Sample Output
@@ -101,7 +101,7 @@ The `<samp>` tag is used to represent sample output from a program or command.
 **Example:**
 
 ```html
-htmlCopy code<p>Sample output: <samp>Hello, World!</samp></p>
+<p>Sample output: <samp>Hello, World!</samp></p>
 ```
 
 #### 11. **`<kbd>` Tag** – Keyboard Input
@@ -111,7 +111,7 @@ The `<kbd>` tag indicates text to be entered by the user. It displays the text i
 **Example:**
 
 ```html
-htmlCopy code<p>Press <kbd>Ctrl + S</kbd> to save your file.</p>
+<p>Press <kbd>Ctrl + S</kbd> to save your file.</p>
 ```
 
 #### 12. **`<var>` Tag** – Variables
@@ -121,7 +121,7 @@ The `<var>` tag is used to define a variable in a mathematical expression or pro
 **Example:**
 
 ```html
-htmlCopy code<p>In the equation <code>E = mc<sup>2</sup></code>, <var>m</var> represents mass.</p>
+<p>In the equation <code>E = mc<sup>2</sup></code>, <var>m</var> represents mass.</p>
 ```
 
 ***
@@ -131,7 +131,7 @@ htmlCopy code<p>In the equation <code>E = mc<sup>2</sup></code>, <var>m</var> re
 Here’s an example HTML document showing all the phrase tags in action:
 
 ```html
-htmlCopy code<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">

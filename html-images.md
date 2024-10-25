@@ -9,7 +9,7 @@ The HTML `<img>` tag is used to display images on a webpage. It’s an **empty t
 The `<img>` tag has a basic structure:
 
 ```html
-htmlCopy code<img src="URL" alt="Description of the Image">
+<img src="URL" alt="Description of the Image">
 ```
 
 * **`src` (source)**: Specifies the path (URL) to the image file.
@@ -18,7 +18,7 @@ htmlCopy code<img src="URL" alt="Description of the Image">
 #### Example 1: Adding a Simple Image
 
 ```html
-htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo">
+<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo">
 ```
 
 In this example:
@@ -31,7 +31,7 @@ In this example:
 You can control the display size of an image using the `width` and `height` attributes. Both accept values in pixels or percentages.
 
 ```html
-htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" width="200" height="100">
+<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" width="200" height="100">
 ```
 
 Here:
@@ -46,7 +46,7 @@ Here:
 The `title` attribute displays a tooltip when the user hovers over the image.
 
 ```html
-htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" title="Visit CodesWithPankaj">
+<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" title="Visit CodesWithPankaj">
 ```
 
 #### 4. Linking Images
@@ -54,21 +54,21 @@ htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="Cod
 To make an image clickable (like a link), wrap the `<img>` tag inside an `<a>` tag.
 
 ```html
-htmlCopy code<a href="https://www.codeswithpankaj.com">
+<a href="https://www.codeswithpankaj.com">
     <img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo">
 </a>
 ```
 
 Here:
 
-* When users click on the image, they’ll be taken to "[https://www.codeswithpankaj.com](https://www.codeswithpankaj.com)".
+* When users click on the image, they’ll be taken to "https://www.codeswithpankaj.com".
 
 #### 5. Image Alignment with CSS
 
 To align images on the webpage, it’s common to use CSS instead of HTML attributes like `align`. Here’s an example using CSS:
 
 ```html
-htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" style="float: right; margin: 10px;">
+<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" style="float: right; margin: 10px;">
 ```
 
 This code:
@@ -81,7 +81,7 @@ This code:
 To make images responsive (adjusting to different screen sizes), you can use the CSS `max-width` property.
 
 ```html
-htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" style="max-width: 100%; height: auto;">
+<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" style="max-width: 100%; height: auto;">
 ```
 
 * **`max-width: 100%;`** limits the image width to the container width.
@@ -92,7 +92,7 @@ htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="Cod
 Lazy loading delays loading of images until they’re needed, improving page load speed. You can enable this with the `loading="lazy"` attribute.
 
 ```html
-htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" loading="lazy">
+<img src="https://www.codeswithpankaj.com/images/logo.png" alt="CodesWithPankaj Logo" loading="lazy">
 ```
 
 #### 8. Full Example of HTML Document with Images
@@ -100,7 +100,7 @@ htmlCopy code<img src="https://www.codeswithpankaj.com/images/logo.png" alt="Cod
 Here’s a complete HTML document demonstrating different ways to use the `<img>` tag:
 
 ```html
-htmlCopy code<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -138,4 +138,3 @@ htmlCopy code<!DOCTYPE html>
 #### Summary
 
 This tutorial covers the essential attributes and methods to work with images in HTML. By using the `<img>` tag effectively, you can enhance your web pages with images that are accessible, responsive, and optimized. Practice with these examples, and create a visually engaging website with CodesWithPankaj!
-
