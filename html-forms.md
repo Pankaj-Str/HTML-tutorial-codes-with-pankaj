@@ -1,6 +1,6 @@
 # HTML Forms
 
-Sure! Here's a complete HTML tutorial on forms, including a full example that combines all the elements discussed:
+
 
 ### HTML Forms Tutorial by CodesWithPankaj
 
